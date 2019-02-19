@@ -1,0 +1,52 @@
+{
+  "name": "library-devl",
+  "version": "0.0.0",
+  "private": false,
+  "peerDependencies": {
+    "@angular/animations": "^7.2.5",
+    "@angular/common": "^7.2.5",
+    "@angular/compiler": "^7.2.5",
+    "@angular/core": "^7.2.5",
+    "@angular/forms": "^7.2.5",
+    "@angular/platform-browser": "^7.2.5",
+    "@angular/platform-browser-dynamic": "^7.2.5",
+    "@angular/router": "^7.2.5",
+    "tsickle": "^0.34.3",
+    "zone.js": "^0.8.29"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.13.1",
+    "@angular/cli": "^7.1.4",
+    "@angular/compiler-cli": "^7.2.5",
+    "@angular/language-service": "~7.1.0",
+    "@types/jasmine": "~2.8.8",
+    "@types/jasminewd2": "~2.0.3",
+    "@types/node": "~8.9.4",
+    "codelyzer": "~4.5.0",
+    "jasmine-core": "~2.99.1",
+    "jasmine-spec-reporter": "~4.2.1",
+    "karma": "^4.0.0",
+    "karma-chrome-launcher": "~2.2.0",
+    "karma-coverage-istanbul-reporter": "~2.0.1",
+    "karma-jasmine": "~1.1.2",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "ng-packagr": "^4.7.1",
+    "protractor": "~5.4.0",
+    "ts-node": "~7.0.0",
+    "tslint": "~5.11.0",
+    "typescript": "~3.1.6"
+  },
+  "main": "bundles/library-devl.umd.js",
+  "module": "fesm5/library-devl.js",
+  "es2015": "fesm2015/library-devl.js",
+  "esm5": "esm5/library-devl.js",
+  "esm2015": "esm2015/library-devl.js",
+  "fesm5": "fesm5/library-devl.js",
+  "fesm2015": "fesm2015/library-devl.js",
+  "typings": "library-devl.d.ts",
+  "metadata": "library-devl.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
