@@ -6,7 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./devl-text.component.css']
 })
 export class DevlTextComponent implements OnInit {
-
   constructor() { }
 
   ngOnInit() {
