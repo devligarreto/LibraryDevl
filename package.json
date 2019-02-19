@@ -1,6 +1,6 @@
 {
   "name": "library-devl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,18 +11,6 @@
     "packagr": "ng-packagr -p ng-package.json"
   },
   "private": false,
-  "dependencies": {
-    "@angular/animations": "^7.2.5",
-    "@angular/common": "^7.2.5",
-    "@angular/compiler": "^7.2.5",
-    "@angular/core": "^7.2.5",
-    "@angular/forms": "^7.2.5",
-    "@angular/platform-browser": "^7.2.5",
-    "@angular/platform-browser-dynamic": "^7.2.5",
-    "@angular/router": "^7.2.5",
-    "tsickle": "^0.34.3",
-    "zone.js": "^0.8.29"
-  },
   "peerDependencies": {
     "@angular/animations": "^7.2.5",
     "@angular/common": "^7.2.5",
@@ -59,6 +47,8 @@
   },
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.",
   "main": "library-devl.d",
+  "dependencies": {
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devligarreto/LibraryDevl.git"

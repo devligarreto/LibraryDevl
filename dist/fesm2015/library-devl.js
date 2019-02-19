@@ -16,7 +16,7 @@ class DevlTextComponent {
 DevlTextComponent.decorators = [
     { type: Component, args: [{
                 selector: 'app-devl-text',
-                template: "<input type=\"text\" class=\"form-control\" />",
+                template: "<input type=\"text\" />",
                 styles: [""]
             }] }
 ];
